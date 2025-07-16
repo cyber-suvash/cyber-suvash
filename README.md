@@ -1,6 +1,6 @@
 # Hi 👋! My name is Suvash Dolai
   **A passionate Techguy ||  Frontened Developer || M.E.R.N Developer from India**
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media.tenor.com/zGvM3Xvqy4sAAAA1/goku-goku-warmup.webp"  />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cybersuvash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvash-dolai) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suvashdolai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhasdolai81@gmail.com) 
 
