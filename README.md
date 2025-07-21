@@ -1,4 +1,4 @@
-# Hi 👋! My name is Suvash Dolai
+# Hi 👋!  I'm Suvash Dolai
   **A passionate Techguy ||  Frontened Developer || M.E.R.N Developer from India**
 <img align="right" height="200" src="https://media.tenor.com/zGvM3Xvqy4sAAAA1/goku-goku-warmup.webp"  />
 ## 🌐 Socials:
